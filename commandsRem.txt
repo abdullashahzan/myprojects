@@ -1,0 +1,24 @@
+1) cmd
+	a) type
+	b) show
+		i) anime
+		ii) gmaps
+		iii) ip
+		iv) ph
+		v) wifi
+	c) search
+	d) shortcut
+	e) train model
+
+2) revert
+
+3) -
+
+
+How to use:
+1a) cmd type hello world 
+1biii) cmd show 182.681.8.1
+1biv) cmd show 966557766889
+1bv) cmd show wifi
+1c) cmd search 10 cupcakes (or) cmd -s 7 bananas along with monkeys
+3) - how to use soap

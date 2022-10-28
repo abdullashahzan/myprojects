@@ -1,0 +1,6 @@
+Here is the list of all connected wifi's 
+ 
+{'ssid': 'Tayyab', 'password': '1439_KamiL_k'}
+{'ssid': 'Mtayyab.5G', 'password': 'Abdullah5691'}
+{'ssid': 'MTayyab', 'password': 'Abdullah5691'}
+{'ssid': 'MTayyab5_EXT', 'password': 'Abdullah5691'}
